@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profile Page</title>
+</head>
+<body>
+    <header>
+        <h1>Payoshni Khekale</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hello, I'm Payoshni Khekale, a passionate web developer.
+            I have a strong interest in creating visually appealing and user-friendly websites.
+        </p>
+        <audio controls>
+            <source src="./file_example_MP3_700KB.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <video width="320" height="240" controls>
+            <source src="./pexels-nataliya-vaitkevich-6941895 (1080p).mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </section>
+
+    <section>
+        <h2>Personal Details</h2>
+        <table>
+            <tr>
+                <td>Name:</td>
+                <td>Payoshni Khekale</td>
+            </tr>
+            <tr>
+                <td>Date of Birth:</td>
+                <td>November 2 2002</td>
+            </tr>
+            <tr>
+                <td>Email:</td>
+                <td><a href="mailto:payohnikhekale@gmail.com">payoshnikhekale@gmail.com</a></td>
+            </tr>
+            <tr>
+                <td>Phone:</td>
+                <td>9359425411</td>
+            </tr>
+        </table>
+    </section>
+
+    <section>
+        <h2>Skill Sets</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>PHP</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Photograph</h2>
+        <img src="./payo photo.jpg" height="250" alt="payoshni khekale's photograph">
+    </section>
+
+    <footer>
+        <p>Contact me: <a href="mailto:payohnikhekale@gmail.com">payoshnikhekale@gmail.com</a></p>
+    </footer>
+</body>
+</html>
